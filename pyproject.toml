@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "example"
+name = "fastapi-client-generator"
 version = "0.3.0"
 description = ""
 authors = ["David Montague"]
