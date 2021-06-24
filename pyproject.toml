@@ -23,6 +23,7 @@ mypy = "*"
 
 python-multipart = "*"
 uvicorn = "*"
+autoflake = "^1.4"
 
 [tool.black]
 line-length = 120
